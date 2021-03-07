@@ -1,5 +1,5 @@
 
-<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/hello-world.gif" width="200">
+<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/hello-world.gif" width="100">
 ## 👨🏻‍💻I'm Ruben Macias Socha, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
 
 ```js
