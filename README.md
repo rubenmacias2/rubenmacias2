@@ -1,6 +1,6 @@
 
-<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/hello-world.gif" width="200">
-## 👨🏻‍💻I'm Ruben Macias, I'm currently studying systems engineering at the [UPTC](http://www.uptc.edu.co/).
+#<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/hello-world.gif" width="200">
+## 👨🏻‍💻I'm Ruben Macias, I'm currently studying Computer Science at the [UPTC](http://www.uptc.edu.co/).
 
 ```js
 import Developer from ' rubenmacias2 ';
