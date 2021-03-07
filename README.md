@@ -33,7 +33,7 @@ class Skills extends Developer {
 </a>
 <br>
 
-<h2>  Stats <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="80"></h2>
+<h2>  Stats <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2>
 
 
 ![Ruben github stats](https://github-readme-stats.vercel.app/api?username=rubenmacias2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
