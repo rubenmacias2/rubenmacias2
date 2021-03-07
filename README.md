@@ -20,7 +20,7 @@ class Skills extends Developer {
 }
 ```
 
-<h2> Skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/visual.gif" width="30"></h2>
+<h2> Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2>
 <div>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/html5.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/css.gif" width="60"></a>
@@ -45,7 +45,7 @@ class Skills extends Developer {
 </a>
 <br><br>
 
-<h2>  Stats &nbsp;<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2>
+<h2>  Stats &nbsp;<img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/visual.gif" width="30"></h2>
 
 ![Ruben github stats](https://github-readme-stats.vercel.app/api?username=rubenmacias2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmacias2&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
