@@ -19,17 +19,17 @@ class Skills extends Developer {
   frameworks = ['Express', 'Bootstrap', 'Materialized'];
 }
 ```
+<details>
+	<summary><h2> Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2></summary>
+	<br/>
 
-<h2> Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2>
-
-<div>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/html5.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/css.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/js.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/node.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/bootstrap.gif" width="60"></a>
-</div><br>
-
+  <br>
+</details>
 <h2>  Contact me 🌐 </h2>
 
 <a href="https:https://twitter.com/rubenmacias2">
