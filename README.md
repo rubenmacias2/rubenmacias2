@@ -21,7 +21,7 @@ class Skills extends Developer {
 ```
 
 <details>
-	<summary><h2> Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></h2></summary>
+	<summary> Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></summary>
 	<br/>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/html5.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/css.gif" width="60"></a>
