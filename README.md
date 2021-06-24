@@ -53,6 +53,8 @@ class Skills extends Developer {
 ![Ruben github stats](https://github-readme-stats.vercel.app/api?username=rubenmacias2&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rubenmacias2&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)<br>
 	
+<h2> Music <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/note-music.gif" width="80"></a></h2>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=12136479795&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=12136479795&redirect=true)
 
  <h2> Profile Views </h2> <br>
