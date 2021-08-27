@@ -17,7 +17,7 @@ class AboutMe extends Developer {
 ```
 
 <details>
-<summary>Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="60"></summary>
+<summary>Some skills <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/pc-dev.gif" width="45"></summary>
 <div>	
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/html5.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/css.gif" width="60"></a>
