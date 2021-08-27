@@ -60,16 +60,13 @@ Social Networks 🌐
 <a href="https://www.instagram.com/rubenmaciash/">
   <img align="left" alt="Ruben Instagram," width="22px" src="https://user-images.githubusercontent.com/57324758/109564522-2e532b00-7aaf-11eb-9bc6-ba77f6fc5963.png" />
 </a>
-</div>
+</div><br>
+	
 <div align="center">	
- <h2>&nbsp;&nbsp;Profile Views <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/love.gif" width="65" ></a></h2>
- <div>
+ <h2>&nbsp;&nbsp;&nbsp;&nbsp;Profile Views<img src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/love.gif" width="65" ></h2>
     <img src="https://profile-counter.glitch.me/rubenmacias2/count.svg" />
-    
-</div>
 </div>
 <p align="center">
   Made with :heart: &nbsp;using GitHub Markdown
 </p>
 	
-
