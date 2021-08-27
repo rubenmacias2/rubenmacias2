@@ -1,8 +1,8 @@
 
 ## <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/hello-world.gif" width="200">  :wave:<br>
 ## 👨🏻‍💻I'm Ruben Macias,
-<br> I'am junior developer form Colombia [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) <br> I'm currently studying Systems Engineer at the [UPTC](http://www.uptc.edu.co/).
-
+<br> I'am junior developer form Colombia [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
+<br> I'm currently studying Systems Engineer at the [UPTC](http://www.uptc.edu.co/).
 
 ```js
 import Developer from ' rubenmacias2 ';
@@ -12,7 +12,7 @@ class Bio extends Developer {
   location = 'Nobsa, Boyacá';
 }
 class AboutMe extends Developer {
-  hobbies = ['Gaming', 'Listen Music', 'Watch Series', 'Talking','mountain Bike']; 
+  hobbies = ['Gaming ', 'Listen Music', 'Watch Series', 'Talk','mountain Bike']; 
 }
 ```
 
