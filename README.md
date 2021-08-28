@@ -50,7 +50,7 @@ class AboutMe extends Developer {
 	
 Social Networks 🌐 
 <div>
-<a href="https:https://twitter.com/rubenmacias2">
+<a href="https://twitter.com/rubenmacias2">
   <img align="left" alt="Ruben Twitter" width="22px" src="https://user-images.githubusercontent.com/57324758/109565746-e9c88f00-7ab0-11eb-8a59-3599ca53d8c0.png" />
 </a>
 
