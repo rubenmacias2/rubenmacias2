@@ -8,7 +8,7 @@
 import Developer from ' rubenmacias2 ';
 class Bio extends Developer {
   name     = 'Ruben Macias';
-  title    = 'Dev from';
+  title    = 'Dev Back';
   location = 'Nobsa, Boyacá';
 }
 class AboutMe extends Developer {
