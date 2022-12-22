@@ -32,12 +32,9 @@ class AboutMe extends Developer {
   <br>
 <div/>
 </details>	
-
-<summary> <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/visual.gif" width="30">&nbsp;&nbsp;&nbsp;</summary>
-
-
-
 	
+ <img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/visual.gif" width="30">
+
 <details>
 <summary>Music <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/note-music.gif" width="60"></a>&nbsp;&nbsp;&nbsp;</summary>
 
