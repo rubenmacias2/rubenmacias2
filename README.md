@@ -5,7 +5,7 @@
 <br> I'm currently studying Systems Engineer at the [UPTC](http://www.uptc.edu.co/).
 <br> I'm currently studying the specialization in databases at the [UPTC](http://www.uptc.edu.co/).
 
-.:
+
 ```js
 import Developer from ' rubenmacias2 ';
 class Bio extends Developer {
