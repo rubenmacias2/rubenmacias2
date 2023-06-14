@@ -3,13 +3,15 @@
 ## 👨🏻‍💻I'm Ruben Macias,
 <br> I'm junior developer from Colombia [Colombia 🇨🇴](https://www.google.com/maps/place/Colombia/@4,-72z/) 
 <br> I'm currently studying Systems Engineer at the [UPTC](http://www.uptc.edu.co/).
-
+<br> I'm currently studying the specialization in databases at the [UPTC](http://www.uptc.edu.co/).
+.:
 ```js
 import Developer from ' rubenmacias2 ';
 class Bio extends Developer {
   name     = 'Ruben Macias';
-  title    = 'Dev Back';
+  title    = 'Dev FullStack';
   location = 'Nobsa, Boyacá';
+  WorksAt = 'BD Guidance';
 }
 class AboutMe extends Developer {
   hobbies = ['Gaming ', 'Listen Music', 'Watch Series', 'Talk','mountain Bike']; 
