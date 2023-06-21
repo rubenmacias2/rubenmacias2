@@ -30,8 +30,7 @@ class AboutMe extends Developer {
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/java.gif" width="60"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/sql.gif" width="80"></a>
   <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/mongo.gif" width="100"></a>
-  <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/git.gif" width="70"></a>
-	
+  <a><img alt="wave" src="https://github.com/rubenmacias2/rubenmacias2/blob/main/files/git.gif" width="70"></a>	
   <br>
 <div/>
 </details>	
